@@ -1,5 +1,5 @@
 {
-  "name": "Air Theme",
+  "name": "fff-theme",
   "about_url": null,
   "license_url": null,
   "components": [
@@ -12,29 +12,29 @@
     "serialize_topic_excerpts": true
   },
   "color_schemes": {
-    "air-light": {
+    "fff-light": {
       "primary": "1c1c1c",
       "secondary": "f9fcff",
-      "tertiary": "3877e5",
-      "quaternary": "7e8b93",
+      "tertiary": "1B7340",
+      "quaternary": "dfdddd",
       "header_background": "f9fcff",
       "header_primary": "122b43",
       "highlight": "e6cb37",
       "danger": "d05454",
-      "success": "71bd9f",
-      "love": "c16ad7"
+      "success": "1DA64A",
+      "love": "d05454"
     },
-    "air-dark": {
-      "primary": "e0e0e0",
-      "secondary": "2d2d2d",
-      "tertiary": "9a5cfd",
-      "quaternary": "71bd9f",
-      "header_background": "202020",
-      "header_primary": "e0e0e0",
-      "highlight": "9a5cfd",
+    "fff-dark": {
+      "primary": "1c1c1c",
+      "secondary": "f9fcff",
+      "tertiary": "1B7340",
+      "quaternary": "dfdddd",
+      "header_background": "f9fcff",
+      "header_primary": "122b43",
+      "highlight": "e6cb37",
       "danger": "d05454",
-      "success": "71bd9f",
-      "love": "c16ad7"
+      "success": "1DA64A",
+      "love": "d05454"
     }
   }
 }
