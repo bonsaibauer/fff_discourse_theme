@@ -536,3 +536,9 @@ html body #main-outlet {
 .topic-list .main-link.focused {
   box-shadow: none;
 }
+
+// Versteckt "Your State/Region/Province" und "Your City/Town/Village" beim Registrieren
+.d-modal.create-account div[class*="user-field-state-region-province"],
+.d-modal.create-account div[class*="user-field-city-town-village"] {
+    display: none;
+}
